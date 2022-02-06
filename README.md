@@ -1,2 +1,1 @@
 # aws-cdk
-aws-cdk
