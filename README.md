@@ -1,7 +1,11 @@
 # aws-cdk
 
-## init
+### init
 ```
 cdk init app --language=typescript
 ```
 
+### cdk documentation
+```
+cdk doc
+```
