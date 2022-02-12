@@ -18,6 +18,16 @@ cdk doc
 cdk synthesize --output=./templates
 ```
 
+### show the difference between the what's deplyed and what we have on our code
+```
+cdk diff
+```
+
+### deploy
+```
+cdk deploy
+```
+
 <hr>
 
 CloudFormation은 AWS 리소스를 자동으로 생성해주는 서비스이다.
