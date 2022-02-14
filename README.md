@@ -28,7 +28,7 @@ cdk diff
 cdk deploy
 ```
 
-<hr>
-
-CloudFormation은 AWS 리소스를 자동으로 생성해주는 서비스이다.
-CloudForamtion에서 Stack이란 하나의 단위로 관리할 수 있는 AWS 리소스 모음이다.
+### destroy
+```
+cdk destroy
+```
